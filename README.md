@@ -18,7 +18,7 @@ The program captures live video feed from the default camera, detects hands usin
 
 1. Ensure you have all the prerequisites installed and set up.
 2. Clone the repository and navigate to the directory containing the script.
-3. Run the script: 
+3. Run the The_distance_between_two_fingers,py 
 4. A window displaying the video feed will pop up. Show your hand to the camera, and the program will display the distance between landmarks 4 and 8.
 5. To exit, press the 'q' key.
 
