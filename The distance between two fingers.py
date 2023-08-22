@@ -36,7 +36,7 @@ while True:
 
     # Ensure there are enough landmarks to calculate volume (distance between landmarks 4 and 8).
     if len(lmList) > 5:
-        # Calculate the "volume" which seems to be the distance between the landmarks 4 and 8.
+        # Calculate the "volume" which is  the distance between the landmarks 4 and 8.
         volume = math.sqrt((lmList[8][1] - lmList[4][1]) ** 2 + (lmList[8][2] - lmList[4][2]) ** 2)
 
         # Calculate the mid-point between landmarks 4 and 8.
